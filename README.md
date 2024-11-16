@@ -1,4 +1,4 @@
-### 💫 About Me: 
+## 💫 About Me: 
 Hello! I'm Sơn Hải Đăng, a software developer with a passion for exploring and building modern technological solutions. I have gained experience working with technologies such as Node.js, MongoDB, and ExpressJS, and I continuously strive to expand my knowledge of new technologies.
 
 ### 📊 GitHub Stats:
