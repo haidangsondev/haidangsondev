@@ -26,6 +26,5 @@ Hello! I'm Sơn Hải Đăng, a software developer with a passion for exploring 
   <img align="center" alt="Rafa-Js" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg">
-  <img align="center" alt="Rafa-Js" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg">
 </div>
