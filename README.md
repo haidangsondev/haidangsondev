@@ -1,5 +1,5 @@
 ## 💫 About Me: 
-Hello! I'm Sơn Hải Đăng, a software developer with a passion for exploring and building modern technological solutions. I have gained experience working with technologies such as Node.js, MongoDB, and ExpressJS, and I continuously strive to expand my knowledge of new technologies.
+Hello! I'm Son Hai Dang, a software developer with a passion for exploring and building modern technological solutions. I have gained experience working with technologies such as Node.js, MongoDB, and ExpressJS, and I continuously strive to expand my knowledge of new technologies.
 
 ### 🌐 Socials:
   <a href="https://www.linkedin.com/in/s%C6%A1n-h%E1%BA%A3i-%C4%91%C4%83ng-641730332/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
